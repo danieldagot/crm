@@ -1,0 +1,30 @@
+body{
+   
+}
+
+.popup{
+    color : red ; 
+    background-color: black ; 
+    position: absolute;
+    margin-top: 10% ;
+    margin-left: 60% ;
+    width: 30vh ; 
+    height: 10vw;
+    border-radius: 1em; 
+}
+.popup div
+{
+    display: flex ; 
+    flex-direction: column ;
+    align-items: center ; 
+    justify-content:  center;
+    
+}
+.popup  span
+{
+    display: flex ; 
+    flex-direction: row ;
+    align-items: center ; 
+    justify-content:  center;
+    
+}

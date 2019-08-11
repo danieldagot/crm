@@ -3,9 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@material-ui/core": "^4.3.1",
+    "express": "^4.17.1",
+    "mdbreact": "^4.19.0",
+    "mongoose": "^5.6.8",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-materialize": "^3.3.4",
+    "react-scripts": "3.0.1",
+    "recharts": "^1.7.0"
   },
   "scripts": {
     "start": "react-scripts start",

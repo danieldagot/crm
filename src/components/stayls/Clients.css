@@ -1,0 +1,15 @@
+.controwClassiner{
+   
+    display: grid ; 
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr ;  
+}
+.rowClass
+{
+    display: grid ; 
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr  1fr ;  
+    text-align: center ; 
+
+}
+.spanClass{
+    border-style: solid
+}
